@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+img {
+  margin-top: 50px;
+  width: 1350px;
+  height: 250px;
+}
+button {
+  color: black;
+  background-color: chartreuse;
+  align-content: center;
+  margin: 30px;
+  padding: 2rem 4rem;
+  border-radius: 1rem;
+  margin-left: 40%;
+  cursor: pointer;
+}
